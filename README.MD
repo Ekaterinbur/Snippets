@@ -7,4 +7,3 @@ run project:
 run django-extensions console: 
 `python manage.py shell_plus --ipython`
 
-#####
